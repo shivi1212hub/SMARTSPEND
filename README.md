@@ -1,4 +1,4 @@
-💰 Personal Expense Tracker (Java)
+💰 SMARTSPEND : Personal Expense Tracker
 
 📌 Project Description
 
