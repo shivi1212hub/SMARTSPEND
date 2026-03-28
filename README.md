@@ -1,16 +1,16 @@
-💰 SMARTSPEND : Personal Expense Tracker
+SMARTSPEND : Personal Expense Tracker
 
-📌 Project Description
+Project Description
 
 The SMARTSPEND Personal Expense Tracker is a Java-based application that helps users record, manage, and analyze their daily expenses. It allows users to add, delete, search, and categorize expenses, as well as calculate total spending and generate reports.
 
 ---
-🎯 Problem Statement
+Problem Statement
 
 Managing daily expenses manually is difficult and often leads to poor financial tracking. This project provides a simple solution to store and analyze expenses efficiently.
 
 ---
- 🚀 Features
+Features
 
 * Add Expense
 * View All Expenses
@@ -24,7 +24,7 @@ Managing daily expenses manually is difficult and often leads to poor financial 
 
 ---
 
-🧠 Technologies Used
+Technologies Used
 
 * Java
 * OOP Concepts
@@ -34,7 +34,7 @@ Managing daily expenses manually is difficult and often leads to poor financial 
 
 ---
 
-🏗️ Project Structure
+Project Structure
 
 ```
 ExpenseTracker/
@@ -47,7 +47,7 @@ ExpenseTracker/
 ```
 
 ---
-▶️ How to Run
+How to Run
 
 1. Compile all Java files:
 
@@ -61,7 +61,7 @@ ExpenseTracker/
    ```
 
 ---
-📊 Sample Menu
+Sample Menu
 
 ```
 1. Add Expense
@@ -75,13 +75,13 @@ ExpenseTracker/
 ```
 
 ---
-📁 Output Files
+Output Files
 
 * `expenses.txt` → Stores all expenses
 * `report.txt` → Generated report
 
 ---
-📚 Learning Outcomes
+Learning Outcomes
 
 * Implemented Object-Oriented Programming concepts
 * Used Java Collections Framework
@@ -89,5 +89,5 @@ ExpenseTracker/
 * Handled runtime errors using Exception Handling
 
 ---
-👨‍💻 Author
+Author
 Shivi Sanjay (24BAI10054)
